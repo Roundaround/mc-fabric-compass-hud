@@ -3,7 +3,7 @@
   "id": "compasshud",
   "version": "${version}",
   "name": "Compass HUD",
-  "description": "Add a compass to your HUD just above the hotbar.",
+  "description": "Add a compass overlay to your HUD.",
   "authors": [
     "Roundaround"
   ],

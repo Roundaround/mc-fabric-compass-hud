@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/MC-1.19-%23313e51?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Side-Client-%23313e51?style=for-the-badge"/>
 
-Add a compass to your HUD just above the hotbar.
+Add a compass overlay to your HUD.
 
 ## Download
 
